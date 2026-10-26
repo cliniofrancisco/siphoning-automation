@@ -3,6 +3,7 @@
   "title": "Siphoning PE Automation",
   "description": "Automação de PE do efeito SIPHONING para Hunter Legacy / Foundry VTT v14.",
   "version": "0.1.0",
+  "download": "https://raw.githubusercontent.com/cliniofrancisco/siphoning-automation/main/siphoning-automation-v0.1.0.zip",
   "compatibility": {
     "minimum": "14",
     "verified": "14"
