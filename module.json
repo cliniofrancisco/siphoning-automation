@@ -1,0 +1,18 @@
+{
+  "id": "siphoning-automation",
+  "title": "Siphoning PE Automation",
+  "description": "Automação de PE do efeito SIPHONING para Hunter Legacy / Foundry VTT v14.",
+  "version": "0.1.0",
+  "compatibility": {
+    "minimum": "14",
+    "verified": "14"
+  },
+  "authors": [
+    {
+      "name": "OpenAI"
+    }
+  ],
+  "esmodules": [
+    "scripts/siphoning.js"
+  ]
+}
